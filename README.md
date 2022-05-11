@@ -7,5 +7,5 @@ Every time you guess a letter wrong an apple falls off a tree (without animation
 
 Some screenshots:
 
-![Apple Pie starting screen] (Apple Pie/screenshots/Apple_Pie_screen_1)
+https://github.com/Capslockhuh/Apple-Pie/blob/main/Apple%20Pie/screenshots/Apple_Pie_screen_1.png
 
